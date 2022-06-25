@@ -1,2 +1,2 @@
 # CloudFoundation
-Basic Land-zones
+Basic GCP Land-zones
